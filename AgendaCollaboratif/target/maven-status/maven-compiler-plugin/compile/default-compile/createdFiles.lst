@@ -1,0 +1,4 @@
+com\agenda\controller\AgendaController.class
+com\agenda\view\MainFrame.class
+com\agenda\view\EventDialog.class
+com\agenda\model\Evenement.class
